@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+body {
+    font-size: 1.6rem;
+}
+.container {
+    border: 0.3rem solid black;
+    display: flex;
+    flex-wrap: wrap;
+    /*align-items: baseline;
+    height: 50vh;*/
+}
+.box {
+    /*width: 10rem;*/
+    height: 10rem;
+    flex-basis: 10rem;
+    flex-wrap: 1;
+    /*height: 10rem;*/
+}
+.box1 {
+    background-color: aqua;
+    /*flex-grow: 1;*//*esta propiedad hace q crezcan osupando el espacio libre del contenedor padre*/
+}
+.box2 {
+    background-color: beige;
+
+}
+.box3 {
+    background-color: blue;
+    
+}
+.box4 {
+    background-color: red;
+    
+}
+.box5 {
+    background-color: green;
+    
+}
+.box6 {
+    background-color: gray;
+    
+}

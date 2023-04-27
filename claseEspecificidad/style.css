@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: purple;
+    font-family: serif;
+    margin-bottom: 10px;
+}
+
+
+.title {
+    font-size: 18px;
+    font-family: monospace;
+    /*este estilo de letra no se va a aplicar por q se aplica el estilo del ID q esta arriba q es mas importante*/
+}
+
+.nav {
+    margin-top: 10px;
+    list-style: none;
+    padding-left: 0;
+}
+
+.nav li {
+    display: inline-block;
+}
+
+.nav a{
+    color: white;
+    background-color: #13a4a4;
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+
+/*si solo quiero darle estilo a una de los li puedo generar una clase y mandar a llamar la clase muestro a continuación*/
+.nav .blog{
+    background-color: red;
+}

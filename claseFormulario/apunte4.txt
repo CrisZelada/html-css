@@ -1,0 +1,2 @@
+la etiqueta form le dice al programa que eso es una etiqueta
+y en el atributo action va el empoint desde donde se manipula los codigos de JS para enviar a la base de dato

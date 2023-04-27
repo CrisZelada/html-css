@@ -1,0 +1,23 @@
+/*hermano cercano*/
+h2 + p {
+    color: red;
+    /*esto quiere decir aplicale el color rojo a cada etiqueta de parrafo que este cerca de una etiqueta h2*/
+}
+
+/*hermano general*/
+/*se aplican por que existen en la misma linea (la linea del identado)*/
+h2 ~ p {
+    color: red;
+}
+
+/*combinador hijo*/
+/*lo de abajo quiere decir que la etiqueta p sea hija directa de una etiqueta div (esto es hacia abajo o hacia arriba)*/
+div > p {
+    color: red;
+}
+
+/*combinador descendiente*/
+
+div p {
+    color: red;
+}

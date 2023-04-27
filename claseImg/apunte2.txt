@@ -1,0 +1,2 @@
+la etiqueta de src es para decirle de donde debe tomar la imagen ya sea una carpeta o una url
+la etiqueta de alt es una descripción de la imagen

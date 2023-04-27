@@ -1,0 +1,36 @@
+p {
+    color: blue;
+    font-size: 50px;
+}
+
+/*class*/
+
+.titulo{
+    color:red;
+    font-weight: 300;
+    text-decoration: underline;
+}
+
+.titulo1{
+    color:blue;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+.titulo2{
+    color:blue;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+.titulo3{
+    color:blue;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+/*ID*/
+#texto{
+    color: yellow;
+    font-size: 24px;
+}

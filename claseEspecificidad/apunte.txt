@@ -1,0 +1,5 @@
+la etiqueta de nav es navegador
+
+no puede haber dos ID con el mismo nombre
+
+las class son genericas se pueden tener en varias etiquetas

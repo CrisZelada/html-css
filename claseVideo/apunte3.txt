@@ -1,0 +1,3 @@
+con controls le agregamos controles a los videos
+con preload auto es para q se cargue solo 
+los diferente source son por si tenemos distintos formatos de videos

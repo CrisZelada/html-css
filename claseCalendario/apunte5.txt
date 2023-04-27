@@ -1,0 +1,19 @@
+<form action="calendario">
+            <label for="calendario">
+                <span>Calendario</span>
+                <input type="datetime-local" id="calendario" name="calendario">
+            </label>
+            <input type="submit">
+        </form>
+
+
+autcomplete es para que vaya completando con la info cargada con anteioridad
+require se utiliza como parametros de la informacion que si o si necesitamos que el usuario complete
+
+Este select es bueno pero no es buenas practicas
+<select name="curso" id="">
+                <option value="JavaScript">JavaScript</option>
+                <option value="HTML5">HTML5</option>
+                <option value="CSS3">CSS3</option>
+                <option value="Web Standard">Web Standard</option>
+            </select>

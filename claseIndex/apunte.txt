@@ -1,0 +1,31 @@
+<!DOCTYPE html> esto se cierra solo
+<html lang="es"> es significa español
+    <head>
+        <meta charset="UTF-8"> esto es para que reconozca caracteres especiales
+        <meta name="description" content="Esta página te mostrará fotos de gatos"> esto aparece como la descripcion de lo q hace la pagina
+        <meta name="viewport" content="width=device-width, inictial-scale=1.0"> esto debe ir si o si por q sirve para adaptarse a las medidas de las pantallas
+        <link rel="stylesheet" href="./css/style.css"> asi incorporamos una hoja de estilo
+
+
+    </head> 
+    <body>
+        aca van todas las etiquetas contenedoras y hay dos tipo
+        de contenido: son las que llevan textos, imagenes, videos
+        contenedoras: estas llevan mas etiquetas dentro y nos ayudan a generar la estructura de nuestra pag
+        <ul></ul>
+        <ol></ol>estas dos etiquetas ul y ol es para trabajar con listas
+    </body>
+
+</html>
+
+ol significa q la lista sale ordenada estas vienen numeradas
+ul significa q la lista es desordenada estas vienen con puntos u otros
+
+<a href="#">Soy un link</a> esta etiqueta nos ayuda a generar hipervinculos el # es para que no me refresque la pagina
+
+opciones para trabajr imagenes
+- mejorar el tamaño de las imágenes se puede usar la pagina "Tiny PNG"
+
+- quita los metadatos (hora, localizacion y otros )de la imagen la pagina se llama "Verefix"
+
+la etiqueta de nav es navegador

@@ -1,0 +1,5 @@
+/*no es bueno cargar mas de una fuente externa*/
+/*siemrpe deben ir en la etiqueta head y no en el css*/
+html {
+    font-family: 'Roboto', sans-serif;
+}

@@ -1,0 +1,22 @@
+*{/*esto debe siempre estar en  uestros archivos de css para reiniciar la configuracion de estilos por defecto del navegador*/
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+p{
+    font-size: 1.6rem;/*siempre 1rem va a ser igual a 16px (o la medida de la etiqueta de HTML)*/
+}
+
+main div{
+    font-size: 1.6rem;
+}
+/*1 rem = 10 px
+si quiro 16px = 1.6 rem
+20px =2rem
+30px= 3rem*/
+
+/*a diferencia de em que siempre va a ser la medida de su padre directo que puede ser la medida del main, del body o dentro de donde este*/
+

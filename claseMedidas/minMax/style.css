@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+main {
+    width: 100vw;
+    height: 100vw;
+    background-color: gray;
+}
+
+section {
+    width: 80%;/*quiere decir q el seccion utiliza el 80% del espacio disponible*/
+    min-height: 320px; /*se va a achicar hasta llegar a 320*/
+    max-width: 500px;/*se va a agrandar hats lelgar a 500*/
+    height: 500px;
+    margin: 0 auto;
+    background-color: aqua;
+}

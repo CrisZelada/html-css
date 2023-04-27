@@ -1,0 +1,23 @@
+/*todos los elementos vienen en posicion static y en ese caso no podemos moverlo*/
+/*para movelor usamos el botom en la posicion absolut, relative, fixed o sticky */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parent {
+    border: 2px black dotted;
+    display: inline-block;
+}
+
+.box {
+    display: inline-block;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+#two {
+    background-color: green;
+}

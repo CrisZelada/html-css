@@ -1,0 +1,12 @@
+/* body{
+    font-size: 20px;
+}*/
+
+/*en esta forma un texto se ve mas grande q el otro*/
+.text-container{
+    font-size: 1.5em;/*em toma el tamaño de fuente del padre directo*/
+}
+
+.text-container div{
+    font-size: 1.5em;
+}

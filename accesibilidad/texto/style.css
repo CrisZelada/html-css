@@ -1,0 +1,16 @@
+/*h1 {
+    font-size: 30px;
+}
+p {
+    font-size: 18px;
+}*/ /*las fuentes no deben estar en pixeles por q si no se van a agrandar se debe usar rem*/
+
+html {
+    font-size: 62.5%;
+}
+h1 {
+    font-size: 3rem;/*3rem = 30px*/
+}
+p {
+    font-size: 1.8rem;/*1.8rem = 18px*/
+}
